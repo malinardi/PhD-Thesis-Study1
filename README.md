@@ -4,8 +4,11 @@ Dear Members of the Examination Board, Professors, and fellow Researchers,
 This space has been designed to promote transparency, reproducibility, and the exchange of knowledge within the scientific community. To ensure the validation of the findings presented in this study, the following resources will be provided:
 
 = Protocols and Procedures: Processing scripts (e.g., R, SPSS, Smart-PLS) and detailed methodological step-by-step descriptions.
+
 = Data: Raw and curated datasets used for all analyses.
+
 = Supplementary Results: Statistical outputs, high-resolution figures, and supporting tables.
+
 
 Note on File Availability:
 
