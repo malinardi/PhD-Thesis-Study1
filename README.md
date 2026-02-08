@@ -1,13 +1,12 @@
-# PhD-Thesis-Study1: 
-Dear Members of the Examination Board, Professors, and Fellow Researchers,
+# PhD-Thesis-Study1: O Papel da Idade na Vulnerabilidade do Consumidor em Tempos de COVID-19
+Dear Members of the Examination Board, Professors, and fellow Researchers,
 
 This space has been designed to promote transparency, reproducibility, and the exchange of knowledge within the scientific community. To ensure the validation of the findings presented in this study, the following resources will be provided:
 
-Protocols and Procedures: Processing scripts (e.g., R, SPSS, Smart-PLS) and detailed methodological step-by-step descriptions.
+= Protocols and Procedures: Processing scripts (e.g., R, SPSS, Smart-PLS) and detailed methodological step-by-step descriptions.
+= Data: Raw and curated datasets used for all analyses.
+= Supplementary Results: Statistical outputs, high-resolution figures, and supporting tables.
 
-Data: Raw and curated datasets used for all analyses.
+Note on File Availability:
 
-Supplementary Results: Statistical outputs, high-resolution figures, and supporting tables.
-
-Note on File Availability
-To preserve the originality of the data and comply with institutional and editorial requirements until the formal evaluation stage, please be advised that the full upload of all files will take place upon the official announcement of the thesis defense (public notice).
+To preserve the originality of the data, please be advised that the full upload of all files will take place upon the official announcement of the thesis defense (public notice).
